@@ -1,0 +1,34 @@
+{
+  "name": "nursery",
+  "version": "1.0.0",
+  "description": "A bootstrap template for nursery",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helsagheer/nursery.git"
+  },
+  "keywords": [
+    "Nursery"
+  ],
+  "author": "Hossam Elsagheer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helsagheer/nursery/issues"
+  },
+  "homepage": "https://github.com/helsagheer/nursery#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
+  }
+}
